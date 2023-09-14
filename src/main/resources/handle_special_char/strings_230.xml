@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+    <string name="playmods_text_order_propaganda">Thanks &amp;amp;lt;b&amp;amp;gt;&amp;amp;lt;font&amp;amp;gt;%s&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/b&amp;amp;gt; for donating &amp;amp;lt;b&amp;amp;gt;&amp;amp;lt;font&amp;amp;gt;$%s&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/b&amp;amp;gt;</string>
+    <string name="playmods_text_donate_ranking_monthly_donate">Monthly Donation Leaderboard</string>
+    <string name="playmods_text_donate_ranking_all_donate">Rich Donors Leaderboard</string>
+    <string name="playmods_text_donate_ranking_monthly_donate2">Monthly Leaderboard</string>
+    <string name="playmods_text_donate_ranking">Donation Ranking</string>
+    <string name="playmods_text_dlg_invitation_copy_register_desc">Use the invitation code you copied: &amp;amp;lt;font color=&amp;amp;quot;#4838FF&amp;amp;quot;&amp;amp;gt;%s&amp;amp;lt;/font&amp;amp;gt; to register, and friends can get rewards for the invitation event.friend registers</string>
+    <string name="playmods_text_dlg_invitation_copy_register_sure">Copy and Register</string>
+    <string name="playmods_text_donate_ranking_donate">Donate</string>
+    <string name="playmods_text_tool">Tools</string>
+    <string name="playmods_text_invitation_wanna_ad_free">Wanna Ad-free？</string>
+    <string name="playmods_text_invitation_unlock_ad_free">Feel annoying of ads? Clicks to unlock ad-free!</string>
+    <string name="playmods_text_invitation_code_optional">Invitation code (optional)</string>
+    <string name="playmods_text_featured">Featured</string>
+    <string name="playmods_text_top_charts">Top Charts</string>
+    <string name="playmods_text_category">Category</string>
+    <string name="playmods_text_ranking_playmods">PlayMods Rankings</string>
+    <string name="playmods_text_ranking_google_play">Google Play Rankings</string>
+    <string name="playmods_text_ranking_playmods_game">Trending Games</string>
+    <string name="playmods_text_ranking_playmods_app">Trending Apps</string>
+    <string name="playmods_text_ranking_google_play_game">Game Leaderboard</string>
+    <string name="playmods_text_ranking_google_play_app">App Leaderboard</string>
+    <string name="playmods_text_invitation_code_copied">The invitation code and link have been copied</string>
+
+</resources>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="playmods_250_text_manager_tools">Tools</string>
+    <string name="playmods_250_text_manager_space">Space</string>
+    <string name="playmods_250_text_manager_toca">Toca Archeive</string>
+    <string name="playmods_250_btn_play">Play</string>
+    <string name="playmods_250_text_vs_install_list_header_tip_1">Quick game, no installation required. Supports auxiliary functions such as memory search, speed change gear, connector, rotate screen etc.</string>
+    <string name="playmods_250_text_vs_install_list_header_tip_2">Long press the icon to set the application</string>
+
+    <string name="playmods_250_dlg_shortcut">Add to desktop</string>
+    <string name="playmods_250_dlg_install_2_local">Install locally</string>
+    <string name="playmods_250_dlg_feedback">Feedback</string>
+    <string name="playmods_250_dlg_clear_data">Clean data</string>
+    <string name="playmods_250_dlg_uninstall_app">Uninstall</string>
+    <string name="playmods_250_dlg_cancel_update">Cancel Update</string>
+    <string name="playmods_250_dlg_update">Update</string>
+
+    <string name="playmods_250_text_main_pop_edit">Edit list</string>
+    <string name="playmods_250_text_main_pop_env">Space Plug-in Detection</string>
+    <string name="playmods_250_text_main_pop_helper"><![CDATA[Help & Feedback]]></string>
+    <string name="playmods_250_text_main_pop_kill">One-key repair</string>
+    <string name="playmods_250_text_main_pop_main_setting">Set PlayMods permission</string>
+    <string name="playmods_250_text_main_pop_ext_setting">Set Space Plug-in permission</string>
+
+    <string name="playmods_250_text_commit">Finish</string>
+
+    <string name="playmods_250_text_vs_text_check_env_init_notice">For your better gaming experience, it is recommended to keep installing the latest Space plug-in~</string>
+    <string name="playmods_250_text_vs_uninit">Uninstalled</string>
+    <string name="playmods_250_text_vs_has_install">Installed</string>
+    <string name="playmods_250_text_retry">Retry</string>
+    <string name="playmods_250_text_vs_install">Install</string>
+    <string name="playmods_250_text_vs_init_plugin_ext">Space Plug-in</string>
+    <string name="playmods_250_text_vs_init_float">PlayMods Float</string>
+    <string name="playmods_250_text_vs_plugin_version">Version: %s</string>
+    <string name="playmods_250_toast_env_item_newest">Currently the latest version~</string>
+
+    <string name="playmods_250_text_import_application">Import Application</string>
+    <string name="playmods_250_text_app_uninstall_notice">If the application cannot be read, please click here to open the permission list to find [PlayMods], and enable "read installed application permissions" in the [single permission list]</string>
+    <string name="playmods_250_text_vs_local_input_hint">Search for the game you want to import</string>
+    <string name="playmods_250_text_vs_install_full_notice">Copy APK (Local uninstallation of the game does not affect the space experience)</string>
+    <string name="playmods_250_text_vs_apk_import">Import</string>
+    <string name="playmods_250_text_vs_local_import_nums_format" formatted="false">Add to PlayMods Space (%d)</string>
+    <string name="playmods_250_text_vs_local_import_notice">The space is an independent environment. After importing from the local machine by default, the space will also be deleted when the application is deleted locally. If you want to delete the app without affecting the space, please check "Copy APK".</string>
+
+    <string name="playmods_250_dlg_vs_app_clear_data_content">After cleaning, the game data will be lost and cannot be recovered. Are you sure to confirm the cleaning?</string>
+    <string name="playmods_250_toast_app_clear_data_finish">Data cleaning completed</string>
+
+    <string name="playmods_250_dlg_vs_notice_virtual_kill_all_notice"><Data><![CDATA[If you encounter problems such as the game cannot be started, you can use this tool to repair it. After the repair, you need to <font color="#5442F6">restart PlayMods</font> to take effect.]]></Data></string>
+    <string name="playmods_250_dlg_vs_notice_virtual_kill_all_confirm">Fix Now</string>
+
+    <string name="playmods_250_text_vs_sdcard_is_empty">No installation package found yet</string>
+    <string name="playmods_250_dlg_vs_game_need_update_title">Game Update Tips</string>
+    <string name="playmods_250_dlg_vs_game_need_update_content">An update has been detected for the game, do you want to update it?</string>
+    <string name="playmods_250_dlg_vs_game_need_update_start">Direct Boot</string>
+
+    <string name="playmods_250_text_import_app">Add App</string>
+    <string name="playmods_250_text_background_download">Background Download</string>
+    <string name="playmods_250_text_dlg_vs_install_game_notice" formatted="false">%s Installing...</string>
+    <string name="playmods_250_toast_vs_install_success_format" formatted="false">%s Installed success, please play in the space~</string>
+    <string name="playmods_250_toast_vs_install_fail_format" formatted="false">%s Installed fail, please try local installation~</string>
+    <string name="playmods_250_space_update">Space Update</string>
+    <string name="playmods_250_space_update_tips">Space has been detected to be updated</string>
+
+    <string name="playmods_250_text_vs_feedback_game">Feedback questions (optional)</string>
+    <string name="playmods_250_text_vs_feedback_choice_install_game">Select game</string>
+    <string name="playmods_250_text_vs_feedback_tip_1">Please select the problem encountered</string>
+    <string name="playmods_250_text_vs_feedback_tip_desc">Please add description here for better problem solving</string>
+    <string name="playmods_250_text_vs_feedback_tip_upload_img">Up to 3 screenshots can be uploaded</string>
+    <string name="playmods_250_text_vs_feedback_tip_contact">Contact information</string>
+    <string name="playmods_250_text_vs_feedback_hint_input_email">Please enter your email</string>
+    <string name="playmods_250_toast_vs_feedback_choice_question_type">Please select the problem encountered~</string>
+    <string name="playmods_250_toast_vs_feedback_input_comment">Please add description here for better problem solving~</string>
+    <string name="playmods_250_toast_vs_feedback_contract_empty">Please enter the correct email~</string>
+    <string name="playmods_250_text_vs_feedback_commit">Submit Feedback</string>
+
+    <string name="playmods_250_dlg_vs_permission_title">Permission Prompt</string>
+    <string name="playmods_250_dlg_vs_permission_desc">It is detected that the following permissions are not enabled, please enable them first.</string>
+    <string name="playmods_250_dlg_vs_permission_desc_32_bit">It is detected that [Space Plug-in] the following permissions have not been enabled yet, please enable them first~</string>
+    <string name="playmods_250_dlg_vs_permission_notify">Notification Bar Permissions</string>
+    <string name="playmods_250_dlg_vs_permission_storage">Storage Permissions</string>
+    <string name="playmods_250_dlg_vs_permission_floating">Floating Window Permissions</string>
+    <string name="playmods_250_dlg_vs_permission_not_main_package_notice">The following permissions are for Space Plug-in, not playmods</string>
+    <string name="playmods_250_dlg_vs_permission_open">Open</string>
+    <string name="playmods_250_dlg_vs_32_bit_plugin_tips">Space Plug-in Tips</string>
+    <string name="playmods_250_dlg_vs_notice_install_ext">Detected that the game is 32-bit, please download and install the Spance plug-in first~</string>
+    <string name="playmods_250_dlg_vs_notice_install_ext_fail_notice_1">Failed, click to retry</string>
+
+    <string name="playmods_250_virtual_floating_left_tab_exit">Exit</string>
+    <string name="playmods_250_virtual_floating_split_screen">Split Screen</string>
+    <string name="playmods_250_virtual_floating_rotate_screen">Rotate Screen</string>
+    <string name="playmods_250_virtual_floating_connector">Connector</string>
+    <string name="playmods_250_virtual_floating_speed_change_gear">Speed Change Gear</string>
+    <string name="playmods_250_virtual_floating_memory_search">Memory Search</string>
+
+    <!--连点器-->
+    <string name="playmods_250_autoclick_dlg_choose_function">Select features to add</string>
+    <string name="playmods_250_autoclick_function_click">Click</string>
+    <string name="playmods_250_autoclick_function_double_click">Double click</string>
+    <string name="playmods_250_autoclick_function_long_press">Press</string>
+    <string name="playmods_250_autoclick_function_swipe">Slide</string>
+    <string name="playmods_250_autoclick_dlg_set_long_time_title">Set long press duration</string>
+    <string name="playmods_250_autoclick_dlg_max_time_content">Maximum duration: %s milliseconds (%s seconds)</string>
+    <string name="playmods_250_autoclick_dlg_set_properties">Set properties</string>
+    <string name="playmods_250_autoclick_dlg_target_point">Current point: %s</string>
+    <string name="playmods_250_autoclick_dlg_unit_millisecond">ms</string>
+    <string name="playmods_250_autoclick_dlg_unit_times">times</string>
+    <string name="playmods_250_autoclick_dlg_properties_delay">Delay:</string>
+    <string name="playmods_250_autoclick_dlg_properties_delay_desc">After the previous point click is completed, the click of this point will be delayed within the set time range to prevent detection</string>
+    <string name="playmods_250_autoclick_dlg_properties_press_time">Press time:</string>
+    <string name="playmods_250_autoclick_dlg_properties_press_time_desc">Indicates the time to click and press. If it is just a click, it is recommended to default to 20ms. If it is a long press, it is recommended to set it to more than 1000ms</string>
+    <string name="playmods_250_autoclick_dlg_properties_click_times">Click times:</string>
+    <string name="playmods_250_autoclick_dlg_properties_click_times_desc">Indicates how many times to click the current position, and the next point will be clicked only after all clicks are completed</string>
+    <string name="playmods_250_autoclick_dlg_properties_click_interval">Click interval:</string>
+    <string name="playmods_250_autoclick_dlg_properties_click_interval_desc">Click interval for multiple clicks, random within the set time range, anti-detection</string>
+    <string name="playmods_250_autoclick_dlg_properties_random_offset">Random offset:</string>
+    <string name="playmods_250_autoclick_dlg_properties_random_offset_desc">Click position random offset distance, anti-detection</string>
+    <string name="playmods_250_autoclick_dlg_delete_this_target">Delete current point</string>
+    <string name="playmods_250_autoclick_dlg_properties_swipe_duration">Swipe duration:</string>
+    <string name="playmods_250_autoclick_dlg_properties_swipe_duration_desc">Sliding time when simulating sliding, it is recommended to set it to more than 300ms, too fast will cause sliding to be unavailable, complete sliding within the set time range, anti-detection</string>
+    <string name="playmods_250_autoclick_dlg_properties_swipe_times_desc">Indicates how many times to slide, and the next point will be clicked after all clicks</string>
+    <string name="playmods_250_autoclick_dlg_properties_swipe_times">Number of Swipes:</string>
+    <string name="playmods_250_autoclick_dlg_properties_swipe_interval">Slide interval:</string>
+    <string name="playmods_250_autoclick_dlg_properties_swipe_interval_desc">Swipe interval for multiple swipe, random within set time range, anti-detection</string>
+    <string name="playmods_250_autoclick_dlg_save_point_plan">Save the current point as a plan</string>
+    <string name="playmods_250_autoclick_dlg_point_plan_list">—List of saved schemes—</string>
+    <string name="playmods_250_autoclick_dlg_point_plan_empty">No plan yet</string>
+    <string name="playmods_250_autoclick_dlg_is_to_delete_plan">Do you want to delete the script?</string>
+    <string name="playmods_250_autoclick_dlg_write_point_plan_title">Fill in the script name</string>
+    <string name="playmods_250_autoclick_dlg_plan_example">Example: Daily check-in task</string>
+    <string name="playmods_250_autoclick_text_notice">Tips</string>
+    <string name="playmods_250_autoclick_text_cancel">Cancel</string>
+    <string name="playmods_250_autoclick_text_sure">Sure</string>
+    <string name="playmods_250_autoclick_text_save">Save</string>
+    <string name="playmods_250_autoclick_text_delete">Delete</string>
+    <string name="playmods_250_autoclick_text_load">Load</string>
+
+
+    <!--内存搜索-->
+    <string name="playmods_250_memory_text_vs_dont_show_again">Do not remind again</string>
+    <string name="playmods_250_memory_text_vs_sure">Sure</string>
+    <string name="playmods_250_memory_text_vs_re_search">Search again</string>
+    <string name="playmods_250_memory_text_vs_goon">Continue to filter</string>
+    <string name="playmods_250_memory_text_vs_memory_searching">Data search, please wait~</string>
+    <string name="playmods_250_memory_text_vs_game_loading">Data loading, please wait~</string>
+    <string name="playmods_250_memory_text_vs_memory_searching_result_none">No relevant data is found, please search again~</string>
+    <string name="playmods_250_memory_text_vs_game_load_result_none">Relevant data is not loaded, please reload~</string>
+    <string name="playmods_250_memory_text_vs_memory_type_byte">B</string>
+    <string name="playmods_250_memory_text_vs_memory_type_short">S</string>
+    <string name="playmods_250_memory_text_vs_memory_type_int">I</string>
+    <string name="playmods_250_memory_text_vs_memory_type_float">F</string>
+    <string name="playmods_250_memory_text_vs_memory_type_normal">Normal search</string>
+    <string name="playmods_250_memory_text_vs_memory_type_fuzzy">Fuzzy Search</string>
+    <string name="playmods_250_memory_text_vs_memory_modify_fuzzy_search_lower">Got smaller</string>
+    <string name="playmods_250_memory_text_vs_memory_modify_fuzzy_search_same">No change</string>
+    <string name="playmods_250_memory_text_vs_memory_modify_fuzzy_search_upper">Got larger</string>
+    <string name="playmods_250_memory_text_vs_memory_modify_fuzzy_search_change">How did the value change?</string>
+    <string name="playmods_250_memory_text_vs_em_start">Start</string>
+    <string name="playmods_250_memory_text_vs_em_exit">Exit</string>
+    <string name="playmods_250_memory_text_vs_use_environment_title">Use environment</string>
+    <string name="playmods_250_memory_text_vs_use_environment_notice">This software needs to be used in virtual space\nPrecautions: Do not use modifiers to modify online games, it is prone to title problems, please use with caution</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_start">How to start</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_exact">Normal Search</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_fuzzy">Fuzzy Search</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_start_notice">When you activate this application by clicking the "Start" button, a floating window will be displayed after entering the game. Click the floating window to open the search interface and search for the corresponding value to modify.</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_exact_notice_1">It is generally used for known data. Typical examples are the number of diamonds, gold coins, resources, props, etc. in the game.</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_exact_notice_2"><Data><![CDATA[If there are many search results, you can change the value and then enter the <font color="#DC5342">changed value</font> to continue filtering.]]></Data></string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_exact_notice_3">Generally, it is necessary to repeat the above steps several times to obtain relatively accurate search results. Find the corresponding item in the search results and modify the value.</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_fuzzy_notice_1">It is generally used for unknown values. Typical examples are blood bars, energy bars, magic bars, progress bars, etc. in games. Changes in such data are visible, but invisible in terms of values.</string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_fuzzy_notice_2"><Data><![CDATA[If there are many search results, you can select the <font color="#DC5342">change trend</font> of the value and continue to filter.]]></Data></string>
+    <string name="playmods_250_memory_text_vs_em_how_to_use_fuzzy_notice_3">Generally, it is necessary to repeat the above steps several times to obtain relatively accurate search results. Find the corresponding item in the search results and modify the value.</string>
+    <string name="playmods_250_memory_dlg_vs_em_root_title">Tips</string>
+    <string name="playmods_250_memory_text_vs_em_i_kown">OK</string>
+    <string name="playmods_250_memory_dlg_vs_em_root_notice">In order for the app to work properly, your device must be Rooted. \nIf root permission cannot be obtained, it is recommended to import it into the virtual space for use</string>
+    <string name="playmods_250_memory_dlg_vs_em_permission_title">Tips</string>
+    <string name="playmods_250_memory_dlg_vs_em_permission_goto_open">Go to Open</string>
+    <string name="playmods_250_memory_dlg_vs_em_permission_storage">Storage Permission</string>
+    <string name="playmods_250_memory_dlg_vs_em_permission_opend">Already open</string>
+    <string name="playmods_250_memory_dlg_vs_em_permission_floating">Floating window permissions</string>
+    <string name="playmods_250_memory_dlg_vs_em_permission_notice">The following permissions have not been enabled, for your better gaming experience, it is recommended that you enable them</string>
+    <string name="playmods_250_memory_dlg_vs_em_sure">Sure</string>
+    <string name="playmods_250_memory_dlg_vs_em_cancel">Cancel</string>
+    <string name="playmods_250_memory_text_em_game_select_title">Please select the application process first</string>
+    <string name="playmods_250_memory_text_vs_memory_address">Address</string>
+    <string name="playmods_250_memory_text_vs_memory_value">Value</string>
+    <string name="playmods_250_memory_text_vs_memory_modify">Operate</string>
+    <string name="playmods_250_memory_text_vs_memory_modify_2">Modify</string>
+    <string name="playmods_250_memory_text_vs_memory_result_num_1">— %d items match the value, make the value change and continue to filter —</string>
+    <string name="playmods_250_memory_text_vs_memory_result_num_2">%d items match the value suggestion to continue filtering after the value changes (for example: gold consumption currency)</string>
+    <string name="playmods_250_memory_text_vs_memory_result_num_3">%d items match the value and suggest to continue filtering</string>
+    <string name="playmods_250_memory_text_vs_memory_result_num_limit">There are too many search results. If you continue to filter, you may not be able to filter the results. It is recommended to change the value and search again</string>
+    <string name="playmods_250_memory_dlg_vs_em_root_virtual_space_notice_1">Your Root permission is incomplete, please check the root permission and try again. \nIf Root permission cannot be obtained, it is recommended to import it into a virtual space for use. \n\nNote: It is only supported after the provider of the virtual space is connected and developed according to the development document</string>
+    <string name="playmods_250_memory_dlg_vs_em_root_virtual_space_notice_2">In order for the app to work properly, your device must be Rooted. \nIf Root permission cannot be obtained, it is recommended to import it into a virtual space for use. \n\nNote: It is only supported after the provider of the virtual space is connected and developed according to the development document</string>
+    <string name="playmods_250_memory_dlg_vs_em_root_virtual_space_notice_3"> Development Documentation</string>
+    <string name="playmods_250_memory_toast_write_success">Successfully modified</string>
+    <string name="playmods_250_memory_text_expand">Expand</string>
+
+    <string name="playmods_250_toast_enrty_no_app_edit">Please install the app to Play Space before editing~</string>
+    <string name="playmods_250_toast_enrty_app_edit">Click on the upper right corner to quickly uninstall~~</string>
+
+    <string name="playmods_250_dlg_vs_memory_search_notice">The memory search has been loaded , please restart the game if you want to use it~</string>
+    <string name="playmods_250_dlg_vs_memory_search_sure">Restart</string>
+    <string name="playmods_250_dlg_vs_memory_search_title">Restart Tips</string>
+
+    <string name="playmods_250_text_screen_default">Default</string>
+    <string name="playmods_250_text_screen_horizontal">Horizontal screen</string>
+    <string name="playmods_250_text_screen_vertical">Vertical screen</string>
+    <string name="playmods_250_text_screen_reverse_landscape">Reverse landscape</string>
+    <string name="playmods_250_text_screen_orientation_portrait">Orientation portrait</string>
+
+    <string name="playmods_250_text_vs_feedback_tab_0">Common Problem</string>
+    <string name="playmods_250_text_vs_feedback_tab_1">Feedback</string>
+
+    <string name="playmods_250_text_vs_pip_dlg_per_red">Note: If the Space plug-in is not installed, only enable the corresponding permission of [PlayMods]. For OPPO and VIVO mobile phones, please enable this permission in [Application Management]~</string>
+    <string name="playmods_250_text_vs_pip_dlg_o">The split screen function supports Android 8.0 and above, and it is detected that your current system does not support this function~</string>
+    <string name="playmods_250_text_vs_pip_dlg_ongoing">There is currently a game split screen, please close it and then open it~</string>
+
+    <string name="playmods_250_text_vs_local_tab_1">Install package</string>
+
+    <string name="playmods_250_text_vs_pip_dlg_per">It is detected that your [Picture in Picture] permission has not been enabled yet, please search for the [Picture in Picture] function at the top of [System Settings], click and find [PlayMods] and [Space Plugin] in the list to enable this function to use split screen Function~</string>
+
+    <string name="playmods_250_text_vs_wait_for_install">Waiting to install</string>
+    <string name="playmods_250_text_vs_wait_for_uninstall">Uninstalling</string>
+    <string name="playmods_250_text_vs_installing">Installing</string>
+    <string name="playmods_250_text_vs_unziping">Unpacking</string>
+    <string name="playmods_250_text_vs_checking">Checking</string>
+
+    <string name="playmods_250_text_vs_updated">Updating</string>
+    <string name="playmods_250_text_vs_pause">Paused</string>
+    <string name="playmods_250_text_vs_downing">Downloading</string>
+    <string name="playmods_250_text_vs_update_fail">Update failed</string>
+    <string name="playmods_250_text_vs_down_fail">Download failed</string>
+    <string name="playmods_250_text_vs_cancel_update">Cancel update</string>
+    <string name="playmods_250_text_vs_cancel_down">Cancel download</string>
+
+    <string name="playmods_250_dlg_delete_app">Delete</string>
+
+    <string name="playmods_250_speed_change_gear_reset">Reset</string>
+
+    <string name="playmods_250_text_background_loading">Background Loading</string>
+    <string name="playmods_250_text_resource_loading">Resource loading</string>
+    <string name="playmods_250_text_memory_search_load_complete">After the resources are loaded, you can use the memory search function to your heart\'s content~</string>
+
+    <string name="playmods_250_dlg_vs_mod_loading">The game environment is being detected for you, please wait~</string>
+    <string name="playmods_250_toast_game_loading">The game is starting, please wait~</string>
+
+</resources>
