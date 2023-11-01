@@ -166,8 +166,6 @@ public class DelStringFromXML {
             // 保存修改后的 XML 到文件，去除空行
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
             Transformer transformer = transformerFactory.newTransformer();
-            transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-//            transformer.setOutputProperty(OutputKeys.OMIT_XML_DECLARATION, "yes"); // 去除 XML 声明
 
             // 添加以下两行以去除空行
             transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
